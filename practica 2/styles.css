@@ -1,0 +1,72 @@
+body{
+    background-color: rgba(53, 17, 75, 1);
+    margin: 0;
+    font-family: sans-serif;
+    color: white;
+}
+/*
+.Container{
+    border-radius: 20px;
+    border: 1px;
+    padding: 10px;
+    background-color: rgba(76, 24, 109, 1);
+    margin: 10%;
+    height: 500px;
+    width: 25rem;
+}*/
+.Container{
+    margin-top: 10%;
+    margin: auto;
+    width: 70%;
+    max-width: 785px;
+    min-width: 302px;
+    padding: 2rem;
+    border-radius: 20px;
+    background-color: rgba(76, 24, 109, 1);
+}
+#TEXTINIT{
+    text-align: right;
+}
+
+.linksElements{
+    color: fuchsia;
+}
+
+label{
+    font-weight: bold;
+    display: block;
+    font-size: 14px;
+}
+
+#boton{
+    border: 0px;
+    border-radius: 20px;
+    background-color: rgba(204, 0, 204, 0.72 );
+    align-items: center;
+    margin: 1%;
+    width: 55%;
+    height: 40px;
+    color: aliceblue;
+
+}
+
+.Legal{
+    border: 0px;
+    background-color: rgba(53, 17, 75, 0.72);
+    border-radius:5px;
+    padding: 2px;
+    font-size: 12px;
+    margin: 0 auto;
+}
+
+input{
+    display: block;
+    width: 55%;
+    background-color: transparent;
+    color: aliceblue;
+    border-radius: 5px;
+    border: 1px aliceblue solid;
+    height: 40px;
+    
+}
+
